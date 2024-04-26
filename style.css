@@ -1,0 +1,23 @@
+/* nav a:hover div {
+    background: var(--Teal-Teal-300, #4FD1C5);
+}
+
+.svg-white {
+    filter: brightness(0) invert(1);
+} */
+
+.div-color-change {
+    background-color: white; 
+}
+
+nav a:hover div {
+    background-color: #4FD1C5; 
+}
+
+nav a:hover img {
+    filter: brightness(0) invert(1);
+}
+
+nav a:hover p {
+    font-weight: 700;
+}
